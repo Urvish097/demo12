@@ -474,7 +474,7 @@ function Tiktak() {
             <div id="main">
                 <h1>TIC TAC TOE</h1>
                 <p id="ins">
-                    Game starts by just Tap on box<br /><br />First Player starts as
+                    Created by Urvish<br /><br />First Player starts as
                     <b>Player X </b>And Second Player as
                     <b>Player 0</b>
                 </p>
